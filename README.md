@@ -1,6 +1,6 @@
-# backtoremind
+# popupnightmame
 
-**A reminder app inspired _a little_ by back to the future, and that reminds up to two years forward!**
+**A reminder app inspired _a little_ by back to the future, that is not a reminder app, but more of a scammy popup site.**
 
 > A project _specifically_ for Hideout by Hack Club.
 
